@@ -1,3 +1,6 @@
+# PeopleSoft
+prototype for employee sentiment analysis front-end
+
 # How to Run
 1. Start backend: in one terminal, ```cd back-end``` then ```node app.js```
 2. Start frontend: in another terminal, ```cd front-end``` then ```npm start```
